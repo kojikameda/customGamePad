@@ -41,7 +41,7 @@ do so via my paypal: https://paypal.me/mrmcpowned
     width: 724px;
 }
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
-    background: url(Images/DEFAULT_STATE_BASE.png);
+    background: url(https://github.com/kojikameda/customGamePad/blob/d453a6b17270e56eadca9426f7b1116f341e9847/Images/DEFAULT_STATE_BASE.png);
 }
 /* This hides the controller's button when disconnected so only the background image remains */ 
 .custom.disconnected div {
@@ -56,7 +56,7 @@ do so via my paypal: https://paypal.me/mrmcpowned
 .custom .trigger{/* These are the actual triggers themselves */
     width:86px;
     height:65px;
-    background: url(ps3-assets/triggers.png);
+    background: url(https://github.com/kojikameda/customGamePad/blob/d453a6b17270e56eadca9426f7b1116f341e9847/Images/DEFAULT_STATE_BASE.png);
     opacity: 0;
 }
 /* The left and right classes below are used to position the triggers
