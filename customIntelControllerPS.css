@@ -36,12 +36,12 @@ do so via my paypal: https://paypal.me/mrmcpowned
     and you can observe it as an example. The sticks, buttons, and directional arrows are missing
     because their appropriate elements will be incorperated when their styling is defined below.
     The entirity of the skin's visual styling is done via background images and CSS sprites. */ 
-    background: url(ps3-assets/base.png); 
-    height: 252px;
+    background: url(Images/DEFAULT_STATE_BASE.png); 
+    height: 253px;
     width: 724px;
 }
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
-    background: url(ps3-assets/base-disconnect.png);
+    background: url(Images/DEFAULT_STATE_BASE.png);
 }
 /* This hides the controller's button when disconnected so only the background image remains */ 
 .custom.disconnected div {
